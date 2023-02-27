@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1654174994 source:c:\users\hiffc\onedrive\Рабочий стол\c\chimelem\main.cpp
+	<iostream>
+	<locale>
+	<string>
+	<fstream>
+	<windows.h>
+	<iomanip>
+	<ArrayElement.h>
+	<Element.h>
+
+1654241773 c:\users\hiffc\onedrive\Рабочий стол\c\chimelem\include\arrayelement.h
+	<Element.h>
+	<iostream>
+	<iomanip>
+
+1654241426 c:\users\hiffc\onedrive\Рабочий стол\c\chimelem\include\element.h
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string.h>
+
+1654243221 source:c:\users\hiffc\onedrive\Рабочий стол\c\chimelem\src\arrayelement.cpp
+	"ArrayElement.h"
+
+1654175329 source:c:\users\hiffc\onedrive\Рабочий стол\c\chimelem\src\element.cpp
+	"Element.h"
+
